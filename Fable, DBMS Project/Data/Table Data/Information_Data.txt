@@ -1,0 +1,3 @@
+This folder contains the CSV files that were imported into the database as tables. All data within these files was either scraped or generated using Python, and the source of the majority of information is from Goodreads data. Link to Goodreads below.
+
+https://www.goodreads.com/
